@@ -1,2 +1,0 @@
-# MyGoogleFontDemo
-Google font demo
